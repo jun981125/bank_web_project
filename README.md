@@ -2,9 +2,10 @@
 
 # 💡 git 사용방법
 팀장(이미함) : https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%97%B0%EB%8F%99-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-1-%ED%8C%80%EC%9E%A5 
-팀원 : https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%97%B0%EB%8F%99-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-2-%ED%8C%80%EC%9B%90
-pull&push&merge :  https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%97%B0%EB%8F%99-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-3-pull-push
+ 팀원 : https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%97%B0%EB%8F%99-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-2-%ED%8C%80%EC%9B%90
+ pull&push&merge :  https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%97%B0%EB%8F%99-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-3-pull-push
 깃 안써보신거 같아서 보기 쉽게 올려드려요 ! 
+
 ### 🚫 주의 사항 🚫
 1. 각자 이클립스(스프링)에서 clone한 git repository 웬만하면 지우지 마세요 ! 만약 꼭 지워야겠다면 체크박스 중에 위에 있는 거 꼭!!! 하나만 선택해주셔야 해요. 안그러면 컴퓨터에 있는 프로젝트 파일까지 날라갑니당 😥 그냥 안지우는게 제일 베스트에용
 2. pull하고 수정하고 push 해주세요! 안그러면 충돌?? 문제 일어날 수도 있습니다 😥
@@ -13,7 +14,7 @@ pull&push&merge :  https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%
 5. 처음 import 하거나 push 하면 username과 토큰(password)를 입력해야하는데 username 기억안나시면 옆 포스팅 보고 확인해보세요 ! ☞ https://yusang.tistory.com/26
 6. main branch에서 바로 수정하지말고 다른 branch를 만들어서 수정or 추가 할텐데 각자 개인 branch를 쓰고 이름을 정합시당 >< 전 그냥 제이름으로 할까 생각중이에욥
 
- 별거 아니지만 2개월동안 깃하면서 시행착오 겪었던 것들 공유합니당.. 🐷 우리팀 파이팅.. 
+  별거 아니지만 2개월동안 깃하면서 시행착오 겪었던 것들 공유합니당.. 🐷 우리팀 파이팅.. 
 
 # 💡 table
 USE bank_db;
