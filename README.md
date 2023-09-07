@@ -2,9 +2,12 @@
 
 # 💡 git 사용방법
 팀장(이미함) : https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%97%B0%EB%8F%99-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-1-%ED%8C%80%EC%9E%A5 
- 팀원 : https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%97%B0%EB%8F%99-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-2-%ED%8C%80%EC%9B%90
- pull&push&merge :  https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%97%B0%EB%8F%99-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-3-pull-push
-깃 안써보신거 같아서 보기 쉽게 올려드려요 ! 
+
+  팀원 : https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%97%B0%EB%8F%99-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-2-%ED%8C%80%EC%9B%90
+  
+  pull&push&merge :  https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%97%B0%EB%8F%99-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-3-pull-push
+  
+  깃 안써보신거 같아서 보기 쉽게 올려드려요 ! 
 
 ### 🚫 주의 사항 🚫
 1. 각자 이클립스(스프링)에서 clone한 git repository 웬만하면 지우지 마세요 ! 만약 꼭 지워야겠다면 체크박스 중에 위에 있는 거 꼭!!! 하나만 선택해주셔야 해요. 안그러면 컴퓨터에 있는 프로젝트 파일까지 날라갑니당 😥 그냥 안지우는게 제일 베스트에용
