@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=EACCD9&height=400&section=header&text=bank_web_project&fontSize=60&fontColor=705A64&stroke=3A2F32&strokeWidth=2&animation=twinkling)
+![image](https://github.com/jun981125/bank_web_project/assets/139423925/64dc2c69-20f4-44b3-bfa4-1c581a559617)
+
 
 # 💡 git 사용방법
 팀장(이미함) : https://uni.rejoice-it.com/m/entry/Git-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%97%B0%EB%8F%99-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-1-%ED%8C%80%EC%9E%A5 
