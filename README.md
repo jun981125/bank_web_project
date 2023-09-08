@@ -17,7 +17,7 @@
 5. 처음 import 하거나 push 하면 username과 토큰(password)를 입력해야하는데 username 기억안나시면 옆 포스팅 보고 확인해보세요 ! ☞ https://yusang.tistory.com/26
 6. main branch에서 바로 수정하지말고 다른 branch를 만들어서 수정or 추가 할텐데 각자 개인 branch를 쓰고 이름을 정합시당 >< 전 그냥 제이름으로 할까 생각중이에욥
 
-  별거 아니지만 2개월동안 깃하면서 시행착오 겪었던 것들 공유합니당.. 🐷 우리팀 파이팅.. 
+  별거 아니지만 2개월동안 깃하면서 시행착오 겪었던 것들 공유합니당.. 🐷 우리팀 파이팅..  화이팅!!
 
 # 💡 table
 USE bank_db;
